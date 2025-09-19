@@ -300,7 +300,7 @@ import { motion } from "framer-motion";
 import { Zap } from "lucide-react";
 import { useTheme } from "../hooks/useTheme";
 import LightRays from "../components/LightRays";
-import PortfolioCards from "../components/portfoliocards";
+import PortfolioCards from "../components/PortfolioCards";
 import ShinyText from "../components/ShinyText";
 
 const About = () => {
