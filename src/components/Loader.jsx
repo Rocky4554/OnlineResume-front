@@ -13,7 +13,7 @@ const Loader = () => {
             <div className="control maximize" />
           </div>
         </div>
-        <div className="text">please wait...</div>
+        <div className="text">Namesate 🙏 Welcome to my Profile</div>
       </div>
     </StyledWrapper>
   );
@@ -48,7 +48,8 @@ const StyledWrapper = styled.div`
     font-family: "Courier New", Courier, monospace;
     font-size: 1em;
     padding: 1.5em 1em;
-    width: 12em;
+    width: 20em;
+    height: 10em;
     margin: 100px auto;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     border-radius: 4px;
