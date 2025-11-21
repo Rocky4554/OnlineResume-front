@@ -114,7 +114,7 @@ const About = () => {
                       className="px-4 py-2 rounded-xl bg-black dark:bg-white dark:text-black text-white text-xs font-bold cursor-pointer"
                       onClick={() => {
                         try {
-                          window.open("/Raunak_Kumar_Resume.pdf", "_blank");
+                          window.open("/public/Raunak_Kumar_Resume.pdf", "_blank");
                         } catch (error) {
                           console.error("Could not open resume:", error);
                         }
